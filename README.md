@@ -15,5 +15,5 @@ https://git.io/JuQs0
 
 ### Créer une tache plannifée toutes les X minutes
 
-
+powershell -Noninteractive -Noprofile -ExecutionPolicy ByPass -Command "C:\ENDROIT_DE_VOTRE_SCRIPT\update_DDNS_OVH.ps1"
 
