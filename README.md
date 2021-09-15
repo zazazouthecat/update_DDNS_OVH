@@ -13,16 +13,15 @@
 
 https://git.io/JuQs0
 
-### Editer les variables :
-#### Variables - Script
-`$WORK_DIR="C:\majip"`
+### Editer les variables dans le script :
 
-#### Variables - OVH
-`$LOGIN_OVH = "LOGIN_OVH"`
+> `$WORK_DIR="C:\majip"`
 
-`$PWD_OVH = "PASSWORD_OVH"`
+> `$LOGIN_OVH = "LOGIN_OVH"`
 
-`$URL_OVH = "DDNS.MYWEBSITE.COM"`
+> `$PWD_OVH = "PASSWORD_OVH"`
+
+> `$URL_OVH = "DDNS.MYWEBSITE.COM"`
 
 
 ### Créer une tache plannifée toutes les X minutes
