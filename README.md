@@ -14,10 +14,10 @@
 https://git.io/JuQs0
 
 ### Editer les variables :
-# Variables - Script
+#### Variables - Script
 $WORK_DIR="C:\majip"
 
-# Variables - OVH
+#### Variables - OVH
 $LOGIN_OVH = "LOGIN_OVH"
 $PWD_OVH = "PASSWORD_OVH"
 $URL_OVH = "DDNS.MYWEBSITE.COM"
