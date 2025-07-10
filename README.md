@@ -2,7 +2,7 @@
 
 
 ## 🖥️ Windows distribution 
-✅ Windows 10  ✅ Windows 7   ✅ Windows Serveur 2016/2019
+✅ Windows 10 (v2.0) ✅ Windows 7 (V1.0)   ✅ Windows Serveur 2016/2019 (v2.0)
 
 ## PowerShell
 ✅ Version 2.0 et +
