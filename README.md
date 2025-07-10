@@ -11,7 +11,11 @@
 
 ### Télécharger le script directement depuis :
 
+V1.0
 https://git.io/JuQs0
+
+V2.0
+https://github.com/zazazouthecat/update_DDNS_OVH/raw/refs/heads/main/update_DDNS_OVH_v2.ps1
 
 ### Editer les variables dans le script :
 
