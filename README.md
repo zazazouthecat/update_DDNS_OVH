@@ -17,9 +17,9 @@ https://git.io/JuQs0
 
 > `$WORK_DIR="C:\majip"`
 
-> `$LOGIN_OVH = "LOGIN_OVH"`
+> `$LOGIN_OVH = "LOGIN_OVH_DYNHOST"`
 
-> `$PWD_OVH = "PASSWORD_OVH"`
+> `$PWD_OVH = "PASSWORD_OVH_DYNHOST"`
 
 > `$URL_OVH = "DDNS.MYWEBSITE.COM"`
 
